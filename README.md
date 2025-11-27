@@ -14,6 +14,8 @@ Instalación
 
 npm install
 
+npm install @reduxjs/toolkit react-redux
+
 Ejecución
 
 - Iniciar el servidor de desarrollo (recomendado):
